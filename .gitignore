@@ -1,0 +1,25 @@
+# Gradle
+.gradle
+build
+.kotlin
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Vercel
+.vercel
+
+# Node modules (if any)
+node_modules/
